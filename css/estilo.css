@@ -1,0 +1,90 @@
+.row{
+    margin-bottom: 30px;
+}
+
+.monitor{
+    font-family:cursive;
+    font-size: 40px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+.criebutton{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.backbutton {
+    width: 30px;
+    margin-top: 20px;
+    margin-left: 40px;
+    float: left;
+}
+
+.nextbutton{
+    width: 30px;
+    margin-top:20px;
+    margin-right: 10px;
+    float: right;
+}
+
+.nextbuttonrec {
+width: 30px;
+margin-left: 100px;
+}
+
+.monitorhome{
+    font-family:cursive;
+    font-size: 20px;
+    margin-right: 0px;
+    margin-left: 1100px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+
+.profile{
+    width: 150px;
+    margin-top:0px;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.userdata{
+    font-size: 20px;
+    margin-top: 10px;
+    font-family:cursive;
+    text-align: center;
+}
+
+.botoes{
+    font-size: 20px;
+    margin-top: 10px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.sairbutton{
+    text-align: center;
+}
+
+.construct{
+    font-size: 20px;
+    margin-top: 40px;
+    font-family:cursive;
+    text-align: center;
+}
+
+.build{
+    width: 150px;
+    margin-top:20px;
+    align-items: center;
+    margin-left: 150px;
+}
+
+.dadoscadastro{
+    width: 150px;
+    margin-top:10px;
+    align-items: center;
+    margin-left: 110px;
+} 
